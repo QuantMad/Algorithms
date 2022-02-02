@@ -1,0 +1,23 @@
+Processing... ./source/test1.jpeg
+Compressed to: ./compressed/test1.jpeg.lz77
+Decompressed to: ./decompressed/test1.jpeg
+source	encoded	difference	decoded
+64775	158414	-93639		64775
+-------------------------------
+Processing... ./source/test7.txt
+Compressed to: ./compressed/test7.txt.lz77
+Decompressed to: ./decompressed/test7.txt
+source	encoded	difference	decoded
+100334	82874	17460		100334
+-------------------------------
+Processing... ./source/test5.gif
+Compressed to: ./compressed/test5.gif.lz77
+Decompressed to: ./decompressed/test5.gif
+source	encoded	difference	decoded
+1313	3580	-2267		1313
+-------------------------------
+Processing... ./source/test6.html
+Compressed to: ./compressed/test6.html.lz77
+Decompressed to: ./decompressed/test6.html
+source	encoded	difference	decoded
+472489	267685	204804		472489
